@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 This script performs clustering analysis on fish morphological data using
 K-Means, DBSCAN, and Hierarchical clustering algorithms. It includes
