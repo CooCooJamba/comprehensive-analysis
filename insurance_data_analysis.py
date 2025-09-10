@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Comprehensive Data Analysis Script for Insurance and COVID-19 Datasets
 
