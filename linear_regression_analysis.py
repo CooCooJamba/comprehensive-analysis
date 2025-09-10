@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Linear Regression Analysis with Gradient Descent and ANOVA Testing
 
