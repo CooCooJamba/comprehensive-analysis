@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Iris Flower Classification using Ensemble Methods
 This script demonstrates the application of bagging (Random Forest) and 
