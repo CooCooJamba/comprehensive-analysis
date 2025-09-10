@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Drug Classification Analysis
 This script performs classification analysis on the Drug200 dataset using
