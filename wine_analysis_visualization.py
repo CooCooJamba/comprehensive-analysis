@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Comprehensive Wine Dataset Analysis and Visualization Script
 
